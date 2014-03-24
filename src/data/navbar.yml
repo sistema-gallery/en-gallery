@@ -56,37 +56,18 @@ nodes:
         - url: divider
         - name: Video
           url: header
-        - url: divider
         - name: 03.07 Concert - Zone of Opus Posth
-          url: /video/38    
-        - name: Guido’s Exercises and Dances by Vladimir Martynov Part 1
-          url: /video/44    
-        - name: Guido’s Exercises and Dances by Vladimir Martynov Part 2
-          url: /video/45
-        - name: Milutinsky 13.09.2012 part 1
-          url: /video/48
-        - name: Milutinsky 13.09.2012 part 2
-          url: /video/49
-        - name: Milutinsky 13.09.2012 part 3
-          url: /video/50
-        - name: Milutinsky 13.09.2012 part 4
-          url: /video/51
-        - name: Milutinsky 13.09.2012 part 5
-          url: /video/52
-        - name: Milutinsky 13.09.2012 part 6
-          url: /video/53
-        - name: Milutinsky 13.09.2012 part 7
-          url: /video/54
-        - name: Milutinsky 13.09.2012 part 8
-          url: /video/55
-        - name: Martynov lecture 1
-          url: /video/57
-        - name: Martynov lecture 2
-          url: /video/58
-        - name: Martynov lecture 3
-          url: /video/59
-        - name: Martynov lecture 4
-          url: /video/62
+          url: http://paraclassics.com/opus-posth-tatiana-grindenko-vladimir-martynov-iannis-xenakis/
+          ext: 1
+        - name: Milutinsky 13.09.2012
+          url: /video/milut-1.html
+        - name: Lectures
+          url: /video/lecture-1.html
+        - name: Guido’s Exercises and Dances by Vladimir Martynov
+          url: /video/martynov-1.html
+        - name: Concert Martinov and Grindenko 25.10.2012
+          url: /video/martinov-and-grindenko.html
+  
 
     - name: Events
       nodes:
