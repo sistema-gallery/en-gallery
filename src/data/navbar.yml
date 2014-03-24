@@ -72,14 +72,12 @@ nodes:
     - name: Events
       nodes:
         - name: Presentation of Vita Nova opera with Vladimir Martynov and Vladimir Yurovsky
-          url: /event/23    
+          url: /event/vitanova.html   
         - name: Events at Milutinsky
-          url: /event/15
+          url: /event/milut.html
         - url: divider
         - name: Contacts
-          url: /projects/view/single/settings/18
-        - name: About
-          url: /projects/view/single/settings/43
+          url: /contact.html
 
     - name: Projects
       nodes:
