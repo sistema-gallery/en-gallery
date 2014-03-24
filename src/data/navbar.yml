@@ -1,0 +1,117 @@
+nodes:
+    - name: Biography
+      nodes:
+        - name: Vladimir Martynov
+          url: /projects/view/section/bio/2
+        - name: Grindenko Tatiana
+          url: /projects/view/section/bio/3
+
+    - name: Press
+      nodes:
+        - name: "Martynov's opera Vita Nuova with the London Philharmonic Orchestra"
+          url: /projects/view/section/press/33
+        - name: Vita Nova by Vladimir Martynov:sign of the opera
+          url: /projects/view/section/press/31
+        - name: About "VITA NOVA" oper by Vladimir Martynov
+          url: /projects/view/section/press/40
+        - name: Vita Nova will be born at the former telephone station
+          url: /projects/view/section/press/29   
+        - name: Classic music is a disease
+          url: /projects/view/section/press/28
+        - name: Anticipating time, or Three reasons to hear Vladimir Martynov
+          url: /projects/view/section/press/6
+        - name: Sounds of innovations
+          url: /projects/view/section/press/41
+        - name: Guido’s Exercises and Dances
+          url: /projects/view/section/press/25
+
+    - name: Multimedia
+      nodes:
+        - url: divider
+        - name: Music
+          url: header
+        - url: divider
+        - name: Vladimir Martynov
+          url: /projects/view/section/music/11
+        - name: Concerts at Milutinsky 
+          url: /projects/view/section/music/12
+        - name: Grindenko's concert 
+          url: /projects/view/section/music/52
+        - name: L'apres Midi Du Bach
+          url: /projects/view/section/music/63
+
+        - url: divider
+        - name: Video
+          url: header
+        - url: divider
+        - name: 03.07 Concert - Zone of Opus Posth
+          url: /projects/view/section/video/38    
+        - name: Guido’s Exercises and Dances by Vladimir Martynov Part 1
+          url: /projects/view/section/video/44    
+        - name: Guido’s Exercises and Dances by Vladimir Martynov Part 2
+          url: /projects/view/section/video/45
+        - name: Milutinsky 13.09.2012 part 1
+          url: /projects/view/section/video/48
+        - name: Milutinsky 13.09.2012 part 2
+          url: /projects/view/section/video/49
+        - name: Milutinsky 13.09.2012 part 3
+          url: /projects/view/section/video/50
+        - name: Milutinsky 13.09.2012 part 4
+          url: /projects/view/section/video/51
+        - name: Milutinsky 13.09.2012 part 5
+          url: /projects/view/section/video/52
+        - name: Milutinsky 13.09.2012 part 6
+          url: /projects/view/section/video/53
+        - name: Milutinsky 13.09.2012 part 7
+          url: /projects/view/section/video/54
+        - name: Milutinsky 13.09.2012 part 8
+          url: /projects/view/section/video/55
+        - name: Martynov lecture 1
+          url: /projects/view/section/video/57
+        - name: Martynov lecture 2
+          url: /projects/view/section/video/58
+        - name: Martynov lecture 3
+          url: /projects/view/section/video/59
+        - name: Martynov lecture 4
+          url: /projects/view/section/video/62
+
+        - url: divider    
+        - name: Photo
+          url: header
+        - url: divider
+        - name: Presentation of Vita Nova opera with Vladimir Martynov 25.12.2012
+          url: /projects/view/section/photo/32    
+        - name: Zone Opus Posth Tower 13.09 Celebrating anniversary of John Cage
+          url: /projects/view/section/photo/22    
+        - name: Zone Opus Posth
+          url: /projects/view/section/photo/10
+        - name: Events at Sitronix building
+          url: /projects/view/section/photo/9
+
+    - name: Events
+      nodes:
+        - name: Presentation of Vita Nova opera with Vladimir Martynov and Vladimir Yurovsky
+          url: /projects/view/section/event/23    
+        - name: Events at Milutinsky
+          url: /projects/view/section/event/15
+        - url: divider
+        - name: Contacts
+          url: /projects/view/single/settings/18
+        - name: About
+          url: /projects/view/single/settings/43
+
+    - name: Projects
+      nodes:
+        - name: Staging the opera
+          url: /projects/view/section/project10/60
+        - name: Establishing new cultural movement ‘Vita Nova’
+          url: /projects/view/section/project10/61
+        - name: Space projects
+          url: /projects/view/section/project10/64
+
+    - name: Leasing
+      url: http://www.gallery-sistema.com/
+      ext: 1
+
+    - name: Russian
+      url: http://sistema-gallery.ru

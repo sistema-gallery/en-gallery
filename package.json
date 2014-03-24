@@ -1,0 +1,23 @@
+{
+    "name": "en-gallery",
+    "version": "0.1.0",
+    "authors": [
+        "Vadim Gusev <vadim@whitestar.ru>"
+    ],
+    "homepage": "http://en.sistema-gallery.ru",
+    "description": "Sistema gallery web site (russian version)",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:sistema-gallery/en-gallery.git"
+    },
+    "devDependencies": {
+        "grunt": "^0.4.2",
+        "time-grunt": "^0.2.10",
+        "assemble": "^0.4.36",
+        "grunt-contrib-clean": "^0.5.0",
+        "grunt-contrib-copy": "^0.5.0",
+        "grunt-contrib-connect": "^0.7.1",
+        "grunt-contrib-watch": "^0.5.3",
+        "load-grunt-config": "^0.7.1"
+    }
+}
