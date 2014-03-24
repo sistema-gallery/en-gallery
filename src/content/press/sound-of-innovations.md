@@ -1,0 +1,21 @@
+---
+title: 'Sounds of innovations'
+categories: [press]
+---
+*The building of the First Moscow Telephone Station in Miluytinsky pereulok started its second life. It hosted the Sistema Gallery fifth cycle of events devoted to contemporary art. They were given in the form of meetings with famous Russian composer, music philosopher Vladimir Martynov, a research of musical concert culture of future.*
+
+<center>![](./img/IMG_0190.jpg)</center>
+
+First, some information about the building in Miluytisky pereulok 5/1. It was constructed in 1904 upon the project of Adolf Erichsen and Otto fon Dessin. Austere Nordic architecture still underlines high-tech nature of both the building (it is designed taking into account the latest achievements of engineering of the last century and it survived until today without any overhauls) and its interior - here the First Moscow Telephone Station was located. The more so, the work made by the Swedes became the highest skyscraper in Moscow in the beginning of XX century (the last eights floor of the tower corresponds to today's 13th floor of standard block of flats). In fact, one hundred years ago it was a House of Future as view by Moscovites of those days. So, the project of Sistema JSFC on transformation of the House of Future and development of future cultural spirit of Moscovites seems very natural. The future was connected with phone lines in the past; now they connect people with art.
+
+To great regret, the building was out of action for several years and requires overhaul now. But even its modern state confirms its thoroughness and beauty: broad stairs, inlaid floors, stucco work, vastness and spaciousness, and a glorious view of Moscow. That is why the Systema JSFC, the founder of Sistema Gallery, decided not to wait until construction works come to an end and has already begun to fill the rooms with a new creative spirit. This week the 7th floor of the tower of the First Moscow Telephone Station hosted unique for Moscow research concert titled *Zone of Opus Posth* by Tatyana Grindenko's string band. This concert continues the cycle of meetings with composer, researcher of the contemporary art and musical culture Vladimir Martynov. The cycle started last spring by Sistema Gallery. In autumn another performance of Opus Posth is to take place. This time they will execute *Passionate Songs* by Martynov. Also the visitors will see presentation of the opera *Vita Nova* by Martynov under the head of conductor and director of the Covent Garden symphony orchestra Vladimir Yurovsky and concert of American ensemble devoted to 100 anniversary of John Cage.
+
+The events will be organized by Private Non-profit Cultural Establishment Sistema Gallery headed by Ekaterina Kholm. Every evening is accompanied with exposition of works of contemporary painters, video installation, small lecture and quiet auction. 
+
+This time Vladimir Martynov discoursed upon opuses. The Latin term "opus" in music means composition of composer under sequence number. "These were note publishers who started to give numbers to compositions", - Vladimir Martynov explained in his educational induction speech. But in XX century first the audio-record appeared, followed by video-record and then computers and our century composers' works has no more "opus no. 25" sign. The approach to writing has also changed: when you can find the whole musical culture of humankind in the web you volens nolens start citing. The time of composers has gone", - Martynov considers. But did the music go away also? What music will sound in a new, post-composer reality, in the period "after opuses", what are the laws supporting its creation and functioning?
+
+Yesterday concert was devoted to study of this new reality. It was represented by Philip Glass with *The Company*, Iannis Xenakis (*Aroura*), Vladimir Martynov (*Autumn Ball of the Elves and Come in!*). To understand sources of ultra-modern music the visitors of unusual meeting listened to *Сoncerto grosso for strings* by Venetian composer of XVII century Arcangelo Corelli.
+
+To our dilettantish view there was only one conclusion to be made - music is not dead. And this evening is a wonderful preface to revive the world of talents in Miluytinsiy. 
+
+Written by Elena Rytsareva
