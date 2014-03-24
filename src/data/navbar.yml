@@ -27,6 +27,19 @@ nodes:
 
     - name: Multimedia
       nodes:
+        - url: divider    
+        - name: Photo
+          url: header
+        - url: divider
+        - name: Presentation of Vita Nova opera with Vladimir Martynov 25.12.2012
+          url: /photo/vitanova.html
+        - name: Zone Opus Posth Tower 13.09 Celebrating anniversary of John Cage
+          url: /photo/cage.html
+        - name: Zone Opus Posth
+          url: /photo/opus-zone.html
+        - name: Events at Sitronix building
+          url: /photo/sitronix.html
+
         - url: divider
         - name: Music
           url: header
@@ -74,19 +87,6 @@ nodes:
           url: /video/59
         - name: Martynov lecture 4
           url: /video/62
-
-        - url: divider    
-        - name: Photo
-          url: header
-        - url: divider
-        - name: Presentation of Vita Nova opera with Vladimir Martynov 25.12.2012
-          url: /photo/32    
-        - name: Zone Opus Posth Tower 13.09 Celebrating anniversary of John Cage
-          url: /photo/22    
-        - name: Zone Opus Posth
-          url: /photo/10
-        - name: Events at Sitronix building
-          url: /photo/9
 
     - name: Events
       nodes:
