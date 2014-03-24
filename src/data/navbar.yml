@@ -82,11 +82,11 @@ nodes:
     - name: Projects
       nodes:
         - name: Staging the opera
-          url: /project10/60
-        - name: Establishing new cultural movement ‘Vita Nova’
-          url: /project10/61
+          url: /project/opera.html
+        - name: 'Establishing new cultural movement "Vita Nova"'
+          url: /project/vitanova.html
         - name: Space projects
-          url: /project10/64
+          url: /project/space.html
 
     - name: Leasing
       url: http://www.gallery-sistema.com/
