@@ -45,13 +45,13 @@ nodes:
           url: header
         - url: divider
         - name: Vladimir Martynov
-          url: /music/11
+          url: /music/martynov.html
         - name: Concerts at Milutinsky 
-          url: /music/12
+          url: /music/milut.html
         - name: Grindenko's concert 
-          url: /music/52
+          url: /music/grindenko.html
         - name: L'apres Midi Du Bach
-          url: /music/63
+          url: /music/bach.html
 
         - url: divider
         - name: Video
