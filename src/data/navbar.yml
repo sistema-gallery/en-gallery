@@ -27,10 +27,8 @@ nodes:
 
     - name: Multimedia
       nodes:
-        - url: divider    
         - name: Photo
           url: header
-        - url: divider
         - name: Presentation of Vita Nova opera with Vladimir Martynov 25.12.2012
           url: /photo/vitanova.html
         - name: Zone Opus Posth Tower 13.09 Celebrating anniversary of John Cage
@@ -43,7 +41,6 @@ nodes:
         - url: divider
         - name: Music
           url: header
-        - url: divider
         - name: Vladimir Martynov
           url: /music/martynov.html
         - name: Concerts at Milutinsky 
