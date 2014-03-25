@@ -52,7 +52,7 @@ So, Martynov has set literary sources into the relationship of conceptual inters
 -	choral refrain accompanied by soloists and an instrumental tutti, where the male chorus sings the hexachord as cantus firmus.
 
 <center>
-![](/blob/storage/download/project/press/das.jpg) </center>
+![](./img/das.jpg) </center>
  <br /><br />
 The melodic material of the opera originates in two sources, two cantus firmi: the<em>Hymn to St. John</em> as a whole and its segments and Guido’s hexachord which functions as a series and as a cantus subject to segmentation. Hence, <em>Guido</em> is not just a monothematic, but also a cantus firmus opera, like there were a cantus firmus Mass or a cantus firmus motet.<br />
 Each of the three texts is given its own music material. St. Bonaventura’s text sounds in the forms of psalmody, Gregorian chant (similar to the <em>Hymn to St. John</em>), organum and early polyphony (Introduction), and in the genres of hymn, responsories and antiphonies. The texts of Guido’s and the Milanese treatises are embodied in opera singing: 6 Guido’s arias and 6 soprano duets, the duets of the Muses, which impersonify composition (“exercises”). But the opera melos is nothing but variations on the cantus: the hexachord is fully dissolved in the coloratura of Gregorian melodies transformed into ornamental vignettes.<br />

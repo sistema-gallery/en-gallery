@@ -49,6 +49,6 @@ R.S.V.P. – 10 сентября <br>
 info@gallery-sistema.com <br>
 + 7 (495) 233 72 20 <br>
 
-<b>[Кураторский текст Алана Файнберга](/projects/view/section/article/16)</b>
+<b>[Кураторский текст Алана Файнберга](/article/alan-faynberg.html)</b>
 
 <iframe src="http://www.youtube.com/embed/bPV10D3Zjvg" class="youtube"></iframe>
