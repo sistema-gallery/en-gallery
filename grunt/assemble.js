@@ -28,7 +28,7 @@ module.exports = {
 
     content: {
         options: {
-            disqusName: 'sistema-gallery',
+            disqusName: 'sistemagalleryen',
             layout: '<%= assemble.options.layourdir %>/default-md.hbs'
         },
         files: [
